@@ -5,7 +5,7 @@
 #project setup-Ebook <br />
 1st: Create or install virtualenvironment <br />
 2nd: activate virtual environment <br />
-clone this repository by typing “https://github.com/maajidpp/EBOOK.git” <br />
+clone this repository by typing “https://github.com/maajidpp/Ebook_repo.git” <br />
 3rd: install requirments <br />
 
 	command – pip install -r requirment.txt <br />
